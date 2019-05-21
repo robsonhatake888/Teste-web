@@ -18,6 +18,5 @@
 	}, 5000);
 </script>
 <?php endif; ?>
-
 </body>
 </html>
